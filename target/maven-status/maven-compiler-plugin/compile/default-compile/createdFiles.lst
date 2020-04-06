@@ -1,0 +1,4 @@
+com\example\accessingdatamysql\model\User.class
+com\example\accessingdatamysql\controller\MainController.class
+com\example\accessingdatamysql\AccessingDataMysqlApplication.class
+com\example\accessingdatamysql\model\UserRepository.class
